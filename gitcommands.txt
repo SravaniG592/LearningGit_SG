@@ -1,0 +1,7 @@
+git status
+git add filename.extension
+git add filename2.extension
+
+git commit -m "Commit msg"
+
+git push
